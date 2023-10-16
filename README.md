@@ -12,9 +12,7 @@ Navigate to [Horiseon](https://nicklearning.github.io/horiseon-marketing-website
 
 Here is a screenshot of the homepage:
 
-'''md
 ![Horiseon Hompage](./01-html-css-git-homework-demo.png)
-'''
 
 ## Credits
 
